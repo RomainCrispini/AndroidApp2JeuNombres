@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App2</string>
+    <string name="lblTitle">Saisir une valeur entre 1 et 100</string>
+    <string name="messageFelicitation">Félicitation, vous avez trouvé en %d coups ! Voulez-vous recommencer ?</string>
+    <string name="plusGrand">Veuillez saisir une valeur plus grande</string>
+    <string name="plusPetit">Veuillez saisir une valeur plus petite</string>
+    <string name="saisir_une_valeur_entre_1_et_100">Saisir une valeur entre 1 et 100</string>
+    <string name="valider">Valider</string>
+    <string name="strYes">Oui</string>
+    <string name="strNo">Non</string>
+</resources>

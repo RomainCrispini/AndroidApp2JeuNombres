@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">App2</string>
+    <string name="lblTitle">Enter a value between 1 and 100</string>
+    <string name="messageFelicitation">Congratulation, you win in %d times !\nDo you want retry ?</string>
+    <string name="plusGrand">Please enter a greater value</string>
+    <string name="plusPetit">Please enter a lower value</string>
+    <string name="saisir_une_valeur_entre_1_et_100">Enter a value between 1 and 100</string>
+    <string name="valider">Validate</string>
+    <string name="strYes">Yes</string>
+    <string name="strNo">No</string>
+</resources>
